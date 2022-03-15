@@ -1,5 +1,6 @@
 - 👋 Hi, Myself Abhay Singh
-- 👀 I’m interested in Electronics, Gaming and Android Development
+- 👀 I’m interested in Electronics, Gaming and Wireless Communication.
+
 - 🌱 I’m currently Doing B.Tech in ECE From NIT Hamirpur
 - 💞️ I’m always looking to create something new and beneficial.
 -
