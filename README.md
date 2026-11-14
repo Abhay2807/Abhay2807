@@ -6,8 +6,6 @@ At HDFC Bank, I have been transforming raw data into valuable insights through a
 Developed and maintained scalable data pipelines and ELT processes using Azure Data Factory and Python, ensuring seamless data flow across systems.
 
 Enhanced data quality and consistency by establishing comprehensive data validation and cleaning procedures.
-
-Optimized storage and processing costs by leveraging Azure Data Lake for efficient storage and management.
 -
 
 <!---
